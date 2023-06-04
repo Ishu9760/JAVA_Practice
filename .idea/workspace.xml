@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="135c22f9-ae90-4023-85c4-0d97a40a2edc" name="Changes" comment="" />
+    <list default="true" id="135c22f9-ae90-4023-85c4-0d97a40a2edc" name="Changes" comment="final commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ishu9760 &lt;ishuanand20@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2QjEz3K10exqscjq6KNwTxHfiDA" />
@@ -21,9 +29,38 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/91976/AppData/Local/Temp/Temp1_ATBJavaNotes.zip/ATBJavaNotes/Java Practice Set/src/PracticeSet",
     "onboarding.tips.debug.path": "C:/Users/91976/AppData/Local/Temp/Temp1_ATBJavaNotes.zip/ATBJavaNotes/Java Practice Set/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91976\AppData\Local\Temp\Temp1_ATBJavaNotes.zip\ATBJavaNotes\Java Practice Set\src\PracticeSet" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PracticeSet" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="addingfloatnumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeSet.addingfloatnumbers" />
+      <module name="Java Practice Set" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.addingfloatnumbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,7 +70,38 @@
       <option name="presentableId" value="Default" />
       <updated>1685858850290</updated>
     </task>
+    <task id="LOCAL-00001" summary="intial commit">
+      <created>1685859440727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685859440727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final commit">
+      <created>1685859699044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685859699044</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial commit" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

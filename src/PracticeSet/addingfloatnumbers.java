@@ -9,4 +9,5 @@ public class addingfloatnumbers {
         System.out.println(z);
 
     }
+
 }
